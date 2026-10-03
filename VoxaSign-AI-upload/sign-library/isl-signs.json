@@ -1,0 +1,57 @@
+{
+  "language": "Indian Sign Language",
+  "language_code": "ISL",
+  "version": "MVP",
+  "reference_source": "Indian Sign Language Research and Training Centre",
+  "reference_url": "https://www.youtube.com/playlist?list=PLFjydPMg4Dapq9vcdmGyHs8uJhiqMgUrX",
+  "signs": {
+    "HELP": {
+      "category": "emergency",
+      "asset": null,
+      "status": "asset_needed",
+      "language": "ISL"
+    },
+    "STOP": {
+      "category": "emergency",
+      "asset": null,
+      "status": "asset_needed",
+      "language": "ISL"
+    },
+    "FIRE": {
+      "category": "emergency",
+      "asset": null,
+      "status": "asset_needed",
+      "language": "ISL"
+    },
+    "DANGER": {
+      "category": "emergency",
+      "asset": null,
+      "status": "asset_needed"
+    },
+    "LEAVE": {
+      "category": "emergency",
+      "asset": null,
+      "status": "asset_needed"
+    },
+    "DOCTOR": {
+      "category": "hospital",
+      "asset": null,
+      "status": "asset_needed"
+    },
+    "HOSPITAL": {
+      "category": "hospital",
+      "asset": null,
+      "status": "asset_needed"
+    },
+    "TRAIN": {
+      "category": "transportation",
+      "asset": null,
+      "status": "asset_needed"
+    },
+    "PLATFORM": {
+      "category": "transportation",
+      "asset": null,
+      "status": "asset_needed"
+    }
+  }
+}

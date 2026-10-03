@@ -1,0 +1,122 @@
+[
+  {
+    "message": "There is a fire. Everyone needs to leave.",
+    "expected_situation": "emergency"
+  },
+  {
+    "message": "I need help immediately.",
+    "expected_situation": "emergency"
+  },
+  {
+    "message": "Please call the police.",
+    "expected_situation": "emergency"
+  },
+  {
+    "message": "I need to see the doctor.",
+    "expected_situation": "hospital"
+  },
+  {
+    "message": "I am in pain and need medicine.",
+    "expected_situation": "hospital"
+  },
+  {
+    "message": "Please take me to the hospital.",
+    "expected_situation": "hospital"
+  },
+  {
+    "message": "The train has been cancelled.",
+    "expected_situation": "transportation"
+  },
+  {
+    "message": "Where is platform 4?",
+    "expected_situation": "transportation"
+  },
+  {
+    "message": "I need a bus ticket.",
+    "expected_situation": "transportation"
+  },
+  {
+    "message": "Where is the classroom?",
+    "expected_situation": "college"
+  },
+  {
+    "message": "Please tell the professor I am late.",
+    "expected_situation": "college"
+  },
+  {
+    "message": "Which building is my class in?",
+    "expected_situation": "college"
+  },
+  {
+    "message": "Hello, how are you?",
+    "expected_situation": "general"
+  },
+  {
+    "message": "What time is it?",
+    "expected_situation": "general"
+  },
+  {
+    "message": "Thank you for helping me.",
+    "expected_situation": "general"
+  },
+    {
+    "message": "Smoke is coming from the kitchen.",
+    "expected_situation": "emergency"
+  },
+  {
+    "message": "This is dangerous. Please leave now.",
+    "expected_situation": "emergency"
+  },
+  {
+    "message": "Please call an ambulance.",
+    "expected_situation": "emergency"
+  },
+  {
+    "message": "Please ask the nurse for assistance.",
+    "expected_situation": "hospital"
+  },
+  {
+    "message": "Which hospital room should I go to?",
+    "expected_situation": "hospital"
+  },
+  {
+    "message": "Please tell me to wait for the doctor.",
+    "expected_situation": "hospital"
+  },
+  {
+    "message": "Where is the train station?",
+    "expected_situation": "transportation"
+  },
+  {
+    "message": "The bus is delayed.",
+    "expected_situation": "transportation"
+  },
+  {
+    "message": "Where can I buy a train ticket?",
+    "expected_situation": "transportation"
+  },
+  {
+    "message": "I am walking across the campus.",
+    "expected_situation": "college"
+  },
+  {
+    "message": "Where is the college library?",
+    "expected_situation": "college"
+  },
+  {
+    "message": "My professor moved the class.",
+    "expected_situation": "college"
+  },
+  {
+    "message": "What is your name?",
+    "expected_situation": "general"
+  },
+  {
+    "message": "Where are you going today?",
+    "expected_situation": "general"
+  },
+  {
+    "message": "I would like to say hello.",
+    "expected_situation": "general"
+  }
+]

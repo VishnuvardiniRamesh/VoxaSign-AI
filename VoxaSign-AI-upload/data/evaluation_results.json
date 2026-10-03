@@ -1,0 +1,8 @@
+{
+  "test_cases": 30,
+  "correct_predictions": 30,
+  "context_accuracy": 100.0,
+  "average_backend_response_ms": 1,
+  "mode": "local mock analyzer",
+  "note": "Results are based on a manually labeled prototype test set."
+}

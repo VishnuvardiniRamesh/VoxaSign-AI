@@ -1,0 +1,13 @@
+{
+  "HELP": {"category": "general", "animation": null},
+  "PLEASE": {"category": "general", "animation": null},
+  "FIRE": {"category": "emergency", "animation": null},
+  "DANGER": {"category": "emergency", "animation": null},
+  "LEAVE": {"category": "emergency", "animation": null},
+  "DOCTOR": {"category": "hospital", "animation": null},
+  "NEED": {"category": "hospital", "animation": null},
+  "TRAIN": {"category": "transportation", "animation": null},
+  "PLATFORM": {"category": "transportation", "animation": null},
+  "WAIT": {"category": "transportation", "animation": null}
+}
+

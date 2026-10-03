@@ -1,0 +1,17 @@
+# Secrets
+.env
+*.key
+*.pem
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+dist/
+.vite/
+
+# Operating system
+.DS_Store
